@@ -37,16 +37,18 @@
         </div>
         </div>
         </div>
-</nav>
-<header>
-<!-- Header -->
-<div class="hero-unit screen-only">
-<div class="container">
-<h1>Christopher Marasco</h1>
-<p class="lead">Information Technologist &bull; Systems Administrator &bull; Professional</p>
-</div>
-</div>	</header>
-<section>    
+    </nav>
+    
+    <header>
+    <!-- Header -->
+    <div class="hero-unit screen-only">
+    <div class="container">
+        <h1>Traffic Alert</h1>
+    
+    </div>
+    </div>
+    </header>
+   
             
             
     ');
