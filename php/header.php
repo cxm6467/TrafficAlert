@@ -39,7 +39,7 @@
         </div>
     </nav>
     
-    <header style="padding-top:10%;">
+    <header style="padding-top:5%;">
     <!-- Header -->
     <div class="hero-unit screen-only">
     <div class="container">
