@@ -14,8 +14,40 @@
             </head>
             <body>
             
-            <nav class="navbar navbar-inverse" role="navigation">
- 
-            </nav>
+
+        <!-- Navbar -->
+        <nav>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+        <div class="container">
+        
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+
+        </button>
+                
+            <a class="brand" href="./index.php">Traffic Alert</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                <li><a href="#"><i class="icon-home icon-white"></i> Home</a></li>
+
+                <li><a href="#"><i class="icon-envelope icon-white"></i> Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        </div>
+        </div>
+</nav>
+<header>
+<!-- Header -->
+<div class="hero-unit screen-only">
+<div class="container">
+<h1>Christopher Marasco</h1>
+<p class="lead">Information Technologist &bull; Systems Administrator &bull; Professional</p>
+</div>
+</div>	</header>
+<section>    
+            
+            
     ');
 ?>
