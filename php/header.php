@@ -39,12 +39,11 @@
         </div>
     </nav>
     
-    <header>
+    <header style="padding-top:10%;">
     <!-- Header -->
     <div class="hero-unit screen-only">
     <div class="container">
         <h1>Traffic Alert</h1>
-    
     </div>
     </div>
     </header>
