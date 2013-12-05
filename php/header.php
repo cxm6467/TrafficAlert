@@ -38,17 +38,6 @@
                         </ul>
                       </div><!--/.nav-collapse -->
                     </div>
-                  </div>
-              
-                <div class="container">
-              
-                    <div class="starter-template">
-                      <h1>Traffic Alert</h1>
-                    </div>
-
-                </div>
-                <!-- /.container -->
-
-            
+                  </div>       
     ');
 ?>
