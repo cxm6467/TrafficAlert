@@ -11,6 +11,12 @@
                 <script src="lib/bootstrap/js/bootstrap.min.js"></script>
                 
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+                
+                <style type="text/css">
+                    body {
+                            padding-top: 50px;
+                        }
+                </style>
             </head>
             <body>
                 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
