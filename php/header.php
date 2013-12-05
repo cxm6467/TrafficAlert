@@ -14,8 +14,5 @@
             </head>
             <body>
             
-
-        <h2>Traffic Alert</h2>
-            
     ');
 ?>
