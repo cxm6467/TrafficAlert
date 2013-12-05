@@ -4,7 +4,7 @@
         <h1>Traffic Alert</h1>
             <div class="container">
                 <p class="">
-                    Super cool mashup of Google Maps API, TomTom Traffic Analysis and an awesome alarm api/library.
+                    Super cool mashup of Google Maps API, TomTom Traffic Analysis and twilio.
                 </p>
             </div>
     </div>
